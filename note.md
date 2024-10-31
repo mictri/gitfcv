@@ -21,3 +21,5 @@ remote
 - git merge {branch name}
 - git branch -d {branch name}
 - git push
+- git clone {duong dan github}
+- ls {liet ke danh sach trong folder}
