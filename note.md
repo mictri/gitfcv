@@ -15,3 +15,5 @@ Branch
 - git branch
 - git checkout -b {branch name}
 - git commit -m 'noi dung ghi chu'
+- git merge {branch name}
+- git branch -d {branch name}
