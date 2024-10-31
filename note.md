@@ -25,3 +25,8 @@ remote
 - git clone {duong dan github}
 - ls {liet ke danh sach trong folder}
 - git fetch origin {lay brand name tu github}
+- git pull (keo du lieu tu github ve local)
+- git remote add origin {duong dan url github}
+- git push origin {branch name}
+- git clone {duong dan url github}
+- git checkout -b {brandname} origin/{branchname}
