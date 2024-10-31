@@ -3,6 +3,8 @@
 repository (Repo)
 Branch
 Conflict
+Local
+remote
 
 # Commands
 
@@ -18,3 +20,4 @@ Conflict
 - git commit -m 'noi dung ghi chu'
 - git merge {branch name}
 - git branch -d {branch name}
+- git push
