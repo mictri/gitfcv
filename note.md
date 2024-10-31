@@ -13,4 +13,5 @@ Branch
 - git log --oneline
 - git checkout {branch name}
 - git branch
--git checkout -b {branch name}
+- git checkout -b {branch name}
+- git commit -m 'noi dung ghi chu'
