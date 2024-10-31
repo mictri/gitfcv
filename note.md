@@ -1,3 +1,4 @@
+Hoc Git vs GitHub - kiem soat du an va lam viec voi team
 #term
 
 repository (Repo)
@@ -30,3 +31,4 @@ remote
 - git push origin {branch name}
 - git clone {duong dan url github}
 - git checkout -b {brandname} origin/{branchname}
+-
